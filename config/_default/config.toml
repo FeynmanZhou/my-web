@@ -1,7 +1,7 @@
 baseURL = "http://feynmanzhou.github.io/"
 title = "Hugo Zzo Theme"
 theme = "zzo"
-publishDir = "feynmanzhou.github.io"
+publishDir = "public"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
