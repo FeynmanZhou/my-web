@@ -1,10 +1,10 @@
 ---
-title: "Hugo zDoc Theme"
+title: "KubeSphere Container Platform"
 date: 2020-01-19T21:13:42+09:00
-description: Make a documentation with hugo zdoc theme!
+description: An Open Source Container Platform built on Kubernetes
 weight: 2
-link: https://github.com/zzossig/hugo-theme-zdoc
-repo: https://github.com/zzossig/hugo-theme-zdoc
+link: https://github.com/kubesphere/kubesphere
+repo: https://github.com/kubesphere/kubesphere
 pinned: true
 thumb: feature3/css3-bare.png
 ---
