@@ -11,7 +11,9 @@ Besides, Feynman is a CNCF Ambassador, Feynman helps CNCF to promote cloud nativ
 
 Feynman is also a InfoQ DevOps Editor. You can find the blogs and news writen by Feynman on his [InfoQ profile](https://www.infoq.com/profile/Feynman-Zhou/). Feel free to contact [Feynman](mailto:feynman@kubesphere.io) to write a piece of news for your project if you want.
 
-Want to communicate with Feynman? Have a cup of coffee? Book a slot with Feynman on Calendly:
+When Feynman is not working, he enjoys playing basketball, hiking, reading, listening podcasts, etc. Feynman is interested in any kind of sport.
+
+Want to have a talk or have a cup of coffee with Feynman? Book a slot with Feynman on [Calendly](https://calendly.com/feynmanzhou/meeting). If you are working in China, you can connect with Feynman via WeChat ID `493200090`.
 
 
 
