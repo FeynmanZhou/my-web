@@ -5,23 +5,13 @@ type = "about"
 date = "2019-02-28"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Feynman is a community manager at [QingCloud](https://qingcloud.com), he is growing and maintaining the [KubeSphere](https://kubesphere.io) open source community, which helps users to widely adopt Kubernetes and reduce the learning curve of using cloud-native technologies. He focuses on advocacy and outreach, community growth, documentation, and user case studies.
 
-Hugo makes use of a variety of open source projects including:
+Besides, Feynman is a CNCF Ambassador, Feynman helps CNCF to promote cloud native technologies in China. He has hosted several online or in-person campaigns, such as [Kubernetes Community Days China](https://www.cncf.io/blog/2022/01/10/kubernetes-community-days-china-beijing-and-shanghai-wrap-up/), [CNCF Webinar](https://www.cncf.io/online-programs/exposing-your-services-in-bare-metal-environment-using-porterlb-and-kubesphere/), and cloud native meetups. 
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Feynman is also a InfoQ DevOps Editor. You can find the blogs and news writen by Feynman on his [InfoQ profile](https://www.infoq.com/profile/Feynman-Zhou/). Feel free to contact [Feynman](mailto:feynman@kubesphere.io) to write a piece of news for your project if you want.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Want to communicate with Feynman? Have a cup of coffee? Book a slot with Feynman on Calendly:
 
 
 

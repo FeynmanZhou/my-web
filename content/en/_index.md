@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Cloud Native Backyard
+      - All Things Cloud Native 
     subtitle:
-      - Record and share cloud native technologies and products
+      - Learn and share the cloud native technologies and products
     titleColor:
     titleShadow: true
     titleFontSize: 44

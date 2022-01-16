@@ -13,30 +13,20 @@
 [[main]]
   identifier = "gallery"
   name = "Gallery"
-  url = "gallery"
+  url = "gallery/photo"
   weight = 3
 
 [[main]]
-  identifier = "showcase"
-  name = "Showcase"
+  identifier = "Projects"
+  name = "Projects"
   url = "showcase"
   weight = 4
 
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
-
-[[main]]
-  identifier = "presentation"
-  name = "PPT"
-  url = "presentation"
-  weight = 5
+# [[main]]
+#  identifier = "presentation"
+#  name = "PPT"
+#  url = "presentation"
+#  weight = 5 
 
 [[main]]
   identifier = "about"
@@ -44,8 +34,3 @@
   url = "about"
   weight = 6
 
-# [[main]]
-#   identifier = "publication"
-#   name = "Pub"
-#   url = "publication"
-#   weight = 7

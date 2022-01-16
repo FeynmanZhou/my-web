@@ -6,5 +6,5 @@ weight: 2
 link: https://github.com/kubesphere/kubesphere
 repo: https://github.com/kubesphere/kubesphere
 pinned: true
-thumb: feature3/css3-bare.png
+thumb: icon/kubesphere-logo.svg
 ---
