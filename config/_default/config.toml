@@ -1,5 +1,5 @@
 baseURL = "http://feynmanzhou.github.io/"
-title = "All things cloud native"
+title = "All Things Cloud Native"
 theme = "zzo"
 publishDir = "public"
 
